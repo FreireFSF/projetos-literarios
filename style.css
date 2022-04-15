@@ -1,0 +1,40 @@
+.significado{
+    border: 3px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 350px;
+}
+.texto{
+    font-family: "Courier New", Courier, monospace;
+    /* font-size: 16px; */
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+.titulo{
+    font-family: "Courier New", Courier, monospace;
+    /* font-size: 17px; */
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 900;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+.float{
+    border: 3px solid #fff;
+    padding: 20px;
+}
+/* .float-child{
+    width: 50%;
+    padding: 20px;
+    border: 2px solid black;
+
+} */
